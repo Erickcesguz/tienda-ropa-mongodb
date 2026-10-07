@@ -13,15 +13,17 @@ Este proyecto consiste en la creación de una base de datos no relacional con Mo
   "rol": "cliente",
   "fecha_creacion": "2025-05-25T00:00:00.000Z"
 }
-
+```
 ### 🏷️ Marcas
+```json
 {
   "nombre": "Nike",
   "pais_origen": "Estados Unidos",
   "sitio_web": "[https://www.nike.com](https://www.nike.com)"
 }
-
+```
 ### 👕 Prendas
+```json
 {
   "nombre": "Camiseta Deportiva",
   "marca": "Nike",
@@ -29,7 +31,9 @@ Este proyecto consiste en la creación de una base de datos no relacional con Mo
   "precio": 25.5,
   "cantidad_stock": 45
 }
+```
 ### 🧾 Ventas
+```json
 {
   "prenda": {
     "nombre": "Camiseta Deportiva"
@@ -41,6 +45,6 @@ Este proyecto consiste en la creación de una base de datos no relacional con Mo
     "username": "carlos23"
   }
 }
-
+```
 ### 👥 Integrante del Proyecto
-Erick Cespesdes Guzman
+#### Erick Cespesdes Guzman
