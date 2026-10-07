@@ -1,11 +1,3 @@
-### 2. Código para el archivo `database/operaciones.js`
-
-```javascript
-// 👕 CRUD para Tienda de Ropa usando MongoDB
-
-// Conexión a la base de datos
-use tiendaRopaDB;
-
 // ---------------------------------------------
 // Colección: usuarios
 // ---------------------------------------------
